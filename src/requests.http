@@ -1,0 +1,45 @@
+GET http://localhost:3000/register?name=🦁
+
+###
+
+GET  http://localhost:3000/register?name=🐺
+
+###
+
+GET http://localhost:3000/register?name=🐱
+
+###
+
+GET http://localhost:3000/register?name=🐭
+
+###
+
+GET http://localhost:3000/register?name=🐹
+
+###
+
+GET http://localhost:3000/register?name=🐰
+
+###
+
+GET http://localhost:3000/register?name=🦊
+
+###
+
+GET http://localhost:3000/register?name=🐻
+
+###
+
+GET http://localhost:3000/register?name=🐼
+
+###
+
+GET http://localhost:3000/register?name=🐨
+
+###
+
+GET http://localhost:3000/register?name=🐯
+
+###
+
+GET http://localhost:3000/register?name=🐥

@@ -1,7 +1,7 @@
 {
-  "name": "turtle-racing",
+  "name": "racing",
   "version": "1.0.0",
-  "description": "poc of turtle racing project containing full observability ecosystem",
+  "description": "poc of turracing project containing full observability ecosystem",
   "main": "dist/index.js",
   "private": true,
   "scripts": {
